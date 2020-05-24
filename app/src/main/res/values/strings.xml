@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyProject</string>
+    <string name="food_desc">Deskripsi</string>
+    <string name="food_name">Food Name</string>
+    <string name="btn_desc">Description</string>
+    <string name="desc_food">This is Food Name</string>
+    <string name="desc_desc">This is Description</string>
+</resources>
